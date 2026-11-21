@@ -221,3 +221,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Nitt Labs - Research Data
+data/raw/
+data/processed/
+
+# Trained Models
+models/
+
+# Local Databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Virtual Environment and Credentials
+.venv/
+.env
+.env.*
